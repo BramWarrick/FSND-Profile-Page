@@ -1,0 +1,37 @@
+img, embed,
+object, video {
+	max-width: 100%;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
+
+body a {
+	color: #2d3c49;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-muted {
+	color: #7d97ad;
+}
+
+.hr-thick {
+	border-color: #7d97ad;
+	border-width: 4px 0;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	max-width: 100px;
+	margin-top: 18px;
+	width: 100%;
+}
