@@ -13,6 +13,16 @@ body a {
 	color: #2d3c49;
 }
 
+p {
+	color: #2d3c49;
+}
+
+summary {
+	color: #2d3c49;
+	font-weight: 300;
+	padding: 1em;
+}
+
 .text-thin {
 	font-weight: 100;
 }
@@ -34,4 +44,11 @@ body a {
 	max-width: 100px;
 	margin-top: 18px;
 	width: 100%;
+	flex-wrap: nowrap;
+}
+
+.profile-img {
+	max-height: 100%;
+	border: 5px;
+	border-color: #aaa;
 }
