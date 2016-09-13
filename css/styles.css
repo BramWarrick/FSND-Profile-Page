@@ -1,3 +1,10 @@
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+
 img, embed,
 object, video {
 	max-width: 100%;
@@ -21,6 +28,21 @@ summary {
 	color: #2d3c49;
 	font-weight: 300;
 	padding: 1em;
+}
+
+footer {
+	padding: 2em;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+footer ul {
+	text-align:center;
+}
+
+footer li {
+	list-style:none;
+	display: inline;
 }
 
 .text-thin {
