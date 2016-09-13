@@ -24,25 +24,10 @@ p {
 	color: #2d3c49;
 }
 
-summary {
-	color: #2d3c49;
-	font-weight: 300;
-	padding: 1em;
-}
-
 footer {
 	padding: 2em;
 	text-align: center;
 	font-size: 1.5em;
-}
-
-footer ul {
-	text-align:center;
-}
-
-footer li {
-	list-style:none;
-	display: inline;
 }
 
 .text-thin {
@@ -69,8 +54,8 @@ footer li {
 	flex-wrap: nowrap;
 }
 
-.profile-img {
-	max-height: 100%;
-	border: 5px;
-	border-color: #aaa;
+.article-details {
+	color: #2d3c49;
+	font-weight: 300;
+	padding: 1em;
 }
